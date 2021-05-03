@@ -1,6 +1,6 @@
 # pilight
 
-App that interacts with the raspberry pi to toggle a light.
+App that interacts with a raspberry pi backend written in express and Node.js to open a garage door, it uses JSON WEB TOKENs and a basic role based interaction with the app.
 
 ## Getting Started
 
